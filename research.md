@@ -1,6 +1,7 @@
 # Research
 
-## Novel Antimicrobial Peptide Discovery [AxPEP](https://app.cbbio.online/ampep/home)
+## Novel Antimicrobial Peptide Discovery 
+[AxPEP prediction server](https://app.cbbio.online/ampep/home)
 
 | <img src="images/axpep.jpg" width="400"> |
 
