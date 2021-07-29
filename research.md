@@ -2,6 +2,8 @@
 
 ## Novel Antimicrobial Peptides Discovery from Fungal Genomes using Machine Learning  
 
+|<img src="images/axpep.jpg" width="350">|
+| :-: |
 |**Visit our one-stop AMP prediction server [AxPEP](https://app.cbbio.online/ampep/home)**|
 
 Antimicrobial peptides (AMPs) are a valuable source of antimicrobial agents and a potential solution to the multi-drug resistance problem. In particular, short-length AMPs have been shown to have enhanced antimicrobial activities, higher stability, and lower toxicity to human cells. We developed two short-length (less than 30 aa) AMP prediction methods, Deep-AmPEP30 and RF-AmPEP30, based on an optimal feature set of PseKRAAC reduced amino acids composition, convolutional neural network, and random forest. They showed remarkable improvements over four existing ML and DL methods. 
