@@ -1,5 +1,5 @@
 ## Welcome to the Computational Biology and Artificial Intelligence Lab
-[Shirley Siu](https://cbbio.online/shirleysiu.html) | Members | Research | [Publications](publications.md) | [Software](https://app.cbbio.online)
+[Shirley Siu](shirleysiu.md) | Members | Research | [Publications](publications.md) | [Software](https://app.cbbio.online)
 
 *-- This site is still under construction, please check again in a few days --*
 
