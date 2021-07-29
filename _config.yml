@@ -1,6 +1,6 @@
 title: Computational Biology
 logo: /images/logo.png
 description: Institute of Science and Environment - University of Saint Joseph
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
