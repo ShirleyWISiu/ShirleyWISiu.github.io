@@ -13,15 +13,23 @@
 
 ### Education
 - **2010-2011 Post-doc in Computational Biology**, University of Erlangen, Germany
-- **2010 PhD (Dr. rer. nat.) in Computational Biology**, Department of Physics, Saarland University*, Germany
+- **2010 PhD (Dr. rer. nat.) in Computational Biology**, Department of Physics, Saarland University, Germany
 - **2006 MSc in Computational Molecular Biology**, Center for Bioinformatics in Saarland University & Max-Planck Institute for Computer Science, Germany
 - **2001 MSc in Software Engineering**, Department of Computer and Information Science, University of Macau
 - **1997 BSc in Software Engineering**, Department of Computer and Information Science, University of Macau
 
-### Affilitation
-- Council Member of Macau Computational Pharmacy Society (計算藥學協會)
-- Member of Macau Bioinformatics Society  (澳門生物信息學學會)
-- Member of Computer-Aided Drug Design-Asia (CADD-Asia)
+
+### Invited Talks
+- 10/05/2021	**Targeted Anticancer Peptides Discovery: Machine Learning and Molecular Study**	Deep Learning and Artificial Intelligence Summer School 2021 (DLAI5), Thailand (online)
+- 03/12/2019	**Development of Machine Learning Classifiers for Short Antimicrobial Peptide Prediction and Genome Screening**	Computer-Aided Drug Design Seminar & Workshop (CADD2019), Penang, Malaysia
+- 29/11/2018	**Swarm-Intelligence Approach to Protein-Ligand Docking**	Computer-Aided Drug Design Seminar & Workshop (CADD2018), Bali, Indonesia
+- 06/12/2017	Biomolecular Force Fields for Alkanethiol Self-Assembled Monolayers: Comparison and Parameter Tuning	Computer-Aided Drug Design Seminar & Workshop (CADD2017), Langkawi, Malaysia
+- 09/02/2017	Faster and Better Molecular Docking for Structure Swarm Intelligence Algorithms.	The 23rd ISCB International Conference (ISCBC‐2017) on “Interface of Chemical Biology in Drug Research”, SRM University, Chennai, India 
+- 12/11/2014	PSOVina: The Hybrid Particle Swarm Optimization Algorithm for Protein-Ligand Docking
+	The 5th International Conference on Computational Systems-Biology and Bioinformatics (CSBio2014), Singapore
+- 15/12/2013
+	Comparison of Cutoff Strategies for Geometrical Features in Machine Learning-based Scoring Functions
+	The 9th International Conference on Advanced Data Mining and Applications (ADMA2013), Hangzhou, China
 
 ### Conference Organizing Committee
 - Organizing committee, The 10th Anniversary Conference (ACCMS‐10) of the Asian Consortium on Computational Materials Science ― From Virtual To Real, 30 July - 2 Aug 2019, Hong Kong
@@ -40,6 +48,10 @@
 -	IEEE TECON Macau (2015)
 -	International Conference on Biomedical Engineering and Biotechnology (ICBEB 2015, 2014)
 
+### Affilitation
+- Council Member of Macau Computational Pharmacy Society (計算藥學協會)
+- Member of Macau Bioinformatics Society  (澳門生物信息學學會)
+- Member of Computer-Aided Drug Design-Asia (CADD-Asia)
 
 ### Contact
 Email: shirleywisiu at gmail.com
