@@ -1,10 +1,11 @@
 ## Welcome to Computational Biology and Artificial Intelligence Lab
 
-We focus on the development of bioinformatics tools for drug discovery and design. We design optimization algorithms, machine learning and deep learning methods to tackle critical drug discovery problems such as protein-ligand binding, drug target identification, biological activity and toxicity predictions. We are also interested in modeling and simulating important biomolecules to understand their mode of action.
-
 [Shirley Siu](shirleysiu.md) | Members | Research | [Publications](publications.md) | [Software](https://app.cbbio.online)
 
-> <span style="color:red">This site is still under construction, please check back later</span>
+We focus on the development of bioinformatics tools for drug discovery and design. We design optimization algorithms, machine learning and deep learning methods to tackle critical drug discovery problems such as protein-ligand binding, drug target identification, biological activity and toxicity predictions. We are also interested in modeling and simulating important biomolecules to understand their mode of action.
+
+
+<span style="color:red">This site is still under construction, please check back later</span>
 
 
 ### Check out our openings
