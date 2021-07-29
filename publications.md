@@ -67,7 +67,7 @@
 ### 2006
 - Antes, I.+*; Siu, Shirley W. I.+; Lengauer, T. DynaPred: A structure and sequence based method for the prediction of MHC class I binding peptide sequences and conformations. Bioinformatics 2006, 22 (14), e16-e24. JCR-Q1 +equal contributions
 
-#conference
+#conference 
 ## Conference
 
 ### 2020
