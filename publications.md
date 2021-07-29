@@ -1,3 +1,5 @@
+# Journal and Conference Publications
+## Journal 
 ### 2021
 - Shaikh, F.; Tai, H. K.; Desai, N. and Siu, Shirley W. I.* LigTMap: Ligand and structure-based target identification and activity prediction for small molecules. Journal of Cheminformatics 2021, Accepted on 29/05/2021.
 - Wei, Ran; Wu, Qiushuang; Ai, Nana; Wang, Lei; Zhou, Mei; Shaw, Chris; Chen Tianbao; Ye Richard Dequan; Ge, Wei; Siu, Shirley W. I.; Kwok, Hang Fai. A novel bioengineered fragment peptide of Vasostatin-1 exerts smooth muscle pharmacological activities and anti-angiogenic effects via blocking VEGFR signalling pathway. Computational and Structural Biotechnology Journal 2021, 19, 2664-2675.
@@ -43,54 +45,54 @@
 - Fong, S.*; Liang, J.; Siu, Shirley W. I.; Chan, J. H. Efficient variation-based feature selection for medical data classification. Journal of Medical Imaging and Health Informatics 2015, 5, 1093-1098.
 - Fong, S.*; Siu, Shirley W. I.; Zhou, S.; Chan, J. H.; Mohammed, S.; Fiaidhi, J. Real-time analysis of vital signs using incremental data stream mining techniques with a case study of ARDS under icu treatment. Journal of Medical Imaging and Health Informatics 2015, 5, 1108-1115.
 
-2012
-Siu, Shirley W. I.; Pluhackova, K.; Böckmann, R. A.* Optimization of the OPLS-AA force field for long hydrocarbons. Journal of Chemical Theory and Computation 2012, 8, 1459-1470. JCR-Q1
-Borisovska, M.; Schwarz, Y. N.; Narzi, D.; Siu, Shirley W. I.; Kesavan, J.; Mohrmann, R.; Böckmann, R. A.; Bruns, D.* Membrane-proximal tryptophanes of synaptobrevin II stabilize priming of secretory vesicles. Journal of Neuroscience 2012, 32, 15983-15997. JCR-Q1
+### 2012
+- Siu, Shirley W. I.; Pluhackova, K.; Böckmann, R. A.* Optimization of the OPLS-AA force field for long hydrocarbons. Journal of Chemical Theory and Computation 2012, 8, 1459-1470. JCR-Q1
+- Borisovska, M.; Schwarz, Y. N.; Narzi, D.; Siu, Shirley W. I.; Kesavan, J.; Mohrmann, R.; Böckmann, R. A.; Bruns, D.* Membrane-proximal tryptophanes of synaptobrevin II stabilize priming of secretory vesicles. Journal of Neuroscience 2012, 32, 15983-15997. JCR-Q1
 
-2010
-Wang, L.; Siu, Shirley W. I.; Gu, W.; Helms, V.* Downhill binding energy surface of the barnase-barstar complex. Biopolymers 2010, 93, 977–985.
-Jusoh, S. A.; Welsch, C.; Siu, Shirley W. I.; Böckmann, R. A.; Helms, V.* Contribution of charged and polar residues for the formation of the E1-E2 heterodimer from Hepatitis C Virus. Journal of Molecular Modeling 2010, 16, 1625-1637.
+### 2010
+- Wang, L.; Siu, Shirley W. I.; Gu, W.; Helms, V.* Downhill binding energy surface of the barnase-barstar complex. Biopolymers 2010, 93, 977–985.
+- Jusoh, S. A.; Welsch, C.; Siu, Shirley W. I.; Böckmann, R. A.; Helms, V.* Contribution of charged and polar residues for the formation of the E1-E2 heterodimer from Hepatitis C Virus. Journal of Molecular Modeling 2010, 16, 1625-1637.
 
-2009
-Siu, Shirley W. I.; Böckmann, R. A.* Low free energy barrier for ion permeation through double-helical gramicidin. Journal of Physical Chemistry B 2009, 113, 3195-3202. ESI-Q1
-Vacha, R.; Siu, Shirley W. I.; Petrov, M.; Böckmann, R. A., Barucha-Kraszewska, J.; Jurkiewicz, P.; Hof, M.; Berkowitz, M. L.; Jungwirth, P.* Effects of alkali cations and halide anions on the DOPC lipid membrane. Journal of Physical Chemistry A 2009, 113, 7235-7243. ESI-Q1
+### 2009
+- Siu, Shirley W. I.; Böckmann, R. A.* Low free energy barrier for ion permeation through double-helical gramicidin. Journal of Physical Chemistry B 2009, 113, 3195-3202. ESI-Q1
+- Vacha, R.; Siu, Shirley W. I.; Petrov, M.; Böckmann, R. A., Barucha-Kraszewska, J.; Jurkiewicz, P.; Hof, M.; Berkowitz, M. L.; Jungwirth, P.* Effects of alkali cations and halide anions on the DOPC lipid membrane. Journal of Physical Chemistry A 2009, 113, 7235-7243. ESI-Q1
 
-2008
-Narzi, D.; Siu, Shirley W. I.; Stirnimann, C. U.; Grimshaw, J. P.A.; Glockshuber, R.; Capitani, G.; Böckmann, R. A.* Evidence for proton shuffling in a thioredoxin-like protein during catalysis. Journal of Molecular Biology 2008, 382, 978-986. JCR-Q1
-Siu, Shirley W. I.; Vacha, R.; Jungwirth, P.; Böckmann. R. A.* Biomolecular simulations of membranes: Physical properties from different force fields. Journal of Chemical Physics 2008, 128, 125103. Selected for April issue of Virtual Journal of Biological Physics Research. ESI-Q1
+### 2008
+- Narzi, D.; Siu, Shirley W. I.; Stirnimann, C. U.; Grimshaw, J. P.A.; Glockshuber, R.; Capitani, G.; Böckmann, R. A.* Evidence for proton shuffling in a thioredoxin-like protein during catalysis. Journal of Molecular Biology 2008, 382, 978-986. JCR-Q1
+- Siu, Shirley W. I.; Vacha, R.; Jungwirth, P.; Böckmann. R. A.* Biomolecular simulations of membranes: Physical properties from different force fields. Journal of Chemical Physics 2008, 128, 125103. Selected for April issue of Virtual Journal of Biological Physics Research. ESI-Q1
 
-2007
-Siu, Shirley W. I. and Böckmann, R. A.* Electric field effects on membranes: gramicidin A as a test ground. Journal of Structural Biology 2007 157, 545-556. JCR-Q1
+### 2007
+- Siu, Shirley W. I. and Böckmann, R. A.* Electric field effects on membranes: gramicidin A as a test ground. Journal of Structural Biology 2007 157, 545-556. JCR-Q1
 
-2006
-Antes, I.+*; Siu, Shirley W. I.+; Lengauer, T. DynaPred: A structure and sequence based method for the prediction of MHC class I binding peptide sequences and conformations. Bioinformatics 2006, 22 (14), e16-e24. JCR-Q1 +equal contributions
+### 2006
+- Antes, I.+*; Siu, Shirley W. I.+; Lengauer, T. DynaPred: A structure and sequence based method for the prediction of MHC class I binding peptide sequences and conformations. Bioinformatics 2006, 22 (14), e16-e24. JCR-Q1 +equal contributions
 
 
-Conference Publications
+## Conference
 
-2020
-Chen, J.; Cheong, H. H and Siu, Shirley W. I. BESTox: A convolutional neural network regression model based on binary-encoded SMILES for acute oral toxicity prediction of chemical compounds. In: Martín-Vide C., Vega-Rodríguez M., Wheeler T. (eds) Algorithms for Computational Biology. AlCoB 2020. Lecture Notes in Computer Science, vol 12099. Springer, Cham
-Ao, M. C. and Siu, Shirley W. I. Evaluating variants of firefly algorithm for ligand pose prediction in protein-ligand docking program. In Proceedings of the 12th International Conference on Bioinformatics and Biomedical Technology (ICBBT2020), accepted.
-Gao, L. and Siu, Shirley W. I. Study of data imbalanced problem in protein-peptide binding prediction. In Proceedings of the 12th International Conference on Bioinformatics and Biomedical Technology (ICBBT2020), accepted.
+### 2020
+- Chen, J.; Cheong, H. H and Siu, Shirley W. I. BESTox: A convolutional neural network regression model based on binary-encoded SMILES for acute oral toxicity prediction of chemical compounds. In: Martín-Vide C., Vega-Rodríguez M., Wheeler T. (eds) Algorithms for Computational Biology. AlCoB 2020. Lecture Notes in Computer Science, vol 12099. Springer, Cham
+- Ao, M. C. and Siu, Shirley W. I. Evaluating variants of firefly algorithm for ligand pose prediction in protein-ligand docking program. In Proceedings of the 12th International Conference on Bioinformatics and Biomedical Technology (ICBBT2020), accepted.
+- Gao, L. and Siu, Shirley W. I. Study of data imbalanced problem in protein-peptide binding prediction. In Proceedings of the 12th International Conference on Bioinformatics and Biomedical Technology (ICBBT2020), accepted.
 
-2016
-Tai, H. K.; Lin, H.; Siu, Shirley W. I. Improving the efficiency of psovina for protein-ligand docking by two-stage local search. In the Proceeding of the 2016 IEEE Congress on Evolutionary Computation (CEC2016), Vancouver, Canada, July 24-29, 2016.
+### 2016
+- Tai, H. K.; Lin, H.; Siu, Shirley W. I. Improving the efficiency of psovina for protein-ligand docking by two-stage local search. In the Proceeding of the 2016 IEEE Congress on Evolutionary Computation (CEC2016), Vancouver, Canada, July 24-29, 2016.
 
-2015
-Ngai, J. C. F.; Mak, P. I.; Siu, Shirley W. I. Predicting favorable protein docking poses on a solid surface by particle swarm optimization. In the Proceedings of the 2015 IEEE Congress on Evolutionary Computation (CEC2015), 2745-2752, Sendai, Japan, May 25-28, 2015.
+### 2015
+- Ngai, J. C. F.; Mak, P. I.; Siu, Shirley W. I. Predicting favorable protein docking poses on a solid surface by particle swarm optimization. In the Proceedings of the 2015 IEEE Congress on Evolutionary Computation (CEC2015), 2745-2752, Sendai, Japan, May 25-28, 2015.
 
-2013
-Siu, Shirley W. I.; Wong, T. K. F.; Fong, S. Comparison of cutoff strategies for geometrical features in machine learning-based scoring functions. Proceedings of the 9th International Conference on Advanced Data Mining and Applications (ADMA2013), Hangzhou, China, December 14-16, 2013, LNAI 8347, 336-347, Springer, 2013.
+### 2013
+- Siu, Shirley W. I.; Wong, T. K. F.; Fong, S. Comparison of cutoff strategies for geometrical features in machine learning-based scoring functions. Proceedings of the 9th International Conference on Advanced Data Mining and Applications (ADMA2013), Hangzhou, China, December 14-16, 2013, LNAI 8347, 336-347, Springer, 2013.
 
-2001-2009
-Wang, R.; Siu, Shirley W. I.; Böckmann, R. A. Fine-grained protein mutation extraction from biological literature. Proceedings of International Conference on Electronic Computer Technology (ICECT-2009), Macau, 2009.
-Leung, A.; Fong, S.; Siu, Shirley W. I. Smart card-based irregular access patterns detection system. IEEE International Conference on e-Technology, e-Commerce and e-Service (EEE 2004), Taipei, Taiwan, 28-31 March 2004, pp.546-553.
-Fong, S.; Siu, Shirley W. I. An integrative framework of predictive mining methods for medical prognosis. IASTED the 2nd International Conference on Biomedical Engineering (BioMED 2004), Innsbruck, Austria, 16-18 February 2004.
-Fong, S.; Siu, Shirley W. I.; Sun, A. Market watcher agent for e-commerce. IASTED the International Conference on Artificial Intelligence and Applications (AIA 2004), Innsbruck, Austria, 16-18 February 2004.
-Leung, A.; Fong, S.; Siu, Shirley W. I. Smart card-based identification and access control model with real-time suspicious action detection mechanism. IASTED The International Conference on Artificial Intelligence and Applications (AIA 2004), Innsbruck, Austria, 16-18 February 2004.
-Siu, Shirley W. I.; Fong, S.; Guo, Z. S.; Si Tou, K. F. Context-aware for service discovery in ad hoc environment. IASTED Intl. Conf. on Wireless and Optical Communication (WOC-2003), Banff, Canada, 14-16 July, 2003.
-Siu, Shirley W. I.; H. M. Au. Solution for electronic ticket in mobile media. Proceedings of Macau IT Week 2002 Seminar Series, Macau, Oct 4-6 2002.
-Siu, Shirley W. I.; Guo, Z. S.; Fong, S.; Zhuang, Y. Extending e-ticketing service with mobile transactions. Proceedings of the 1st International Conference on Information Technology and Applications (ICITA-2002), Bathurst, Australia, Nov. 25-29, 2002.
-Fong, S.; Siu, Shirley W. I.; Sun, A., WebSpy: Retrieving web contents for e-business intelligence. Proceedings of the 1st International Conference on Information Technology and Applications (ICITA-2002), Bathurst, Australia, Nov. 25-29, 2002.
-Guo, Z. S.; Siu, Shirley W. I.; Wong, C. T. Full-scale online event ticketing system - the design and implementation. Proceeding of the 13th Chinese Process Control Conference, Macau and ZhuHai, China, Jul 29-Aug 2, 2002.
-Siu, Shirley W. I.; Guo, Z. S. Application of electronic ticket to online trading with smart card technology. Proceedings of the 6th INFORMS Conference on Information Systems and Technology (CIST-2001), Miami Beach, Florida, U.S., Nov.3-4 2001, pp.222-239.
+### 2001-2009
+- Wang, R.; Siu, Shirley W. I.; Böckmann, R. A. Fine-grained protein mutation extraction from biological literature. Proceedings of International Conference on Electronic Computer Technology (ICECT-2009), Macau, 2009.
+- Leung, A.; Fong, S.; Siu, Shirley W. I. Smart card-based irregular access patterns detection system. IEEE International Conference on e-Technology, e-Commerce and e-Service (EEE 2004), Taipei, Taiwan, 28-31 March 2004, pp.546-553.
+- Fong, S.; Siu, Shirley W. I. An integrative framework of predictive mining methods for medical prognosis. IASTED the 2nd International Conference on Biomedical Engineering (BioMED 2004), Innsbruck, Austria, 16-18 February 2004.
+- Fong, S.; Siu, Shirley W. I.; Sun, A. Market watcher agent for e-commerce. IASTED the International Conference on Artificial Intelligence and Applications (AIA 2004), Innsbruck, Austria, 16-18 February 2004.
+- Leung, A.; Fong, S.; Siu, Shirley W. I. Smart card-based identification and access control model with real-time suspicious action detection mechanism. IASTED The International Conference on Artificial Intelligence and Applications (AIA 2004), Innsbruck, Austria, 16-18 February 2004.
+- Siu, Shirley W. I.; Fong, S.; Guo, Z. S.; Si Tou, K. F. Context-aware for service discovery in ad hoc environment. IASTED Intl. Conf. on Wireless and Optical Communication (WOC-2003), Banff, Canada, 14-16 July, 2003.
+- Siu, Shirley W. I.; H. M. Au. Solution for electronic ticket in mobile media. Proceedings of Macau IT Week 2002 Seminar Series, Macau, Oct 4-6 2002.
+- Siu, Shirley W. I.; Guo, Z. S.; Fong, S.; Zhuang, Y. Extending e-ticketing service with mobile transactions. Proceedings of the 1st International Conference on Information Technology and Applications (ICITA-2002), Bathurst, Australia, Nov. 25-29, 2002.
+- Fong, S.; Siu, Shirley W. I.; Sun, A., WebSpy: Retrieving web contents for e-business intelligence. Proceedings of the 1st International Conference on Information Technology and Applications (ICITA-2002), Bathurst, Australia, Nov. 25-29, 2002.
+- Guo, Z. S.; Siu, Shirley W. I.; Wong, C. T. Full-scale online event ticketing system - the design and implementation. Proceeding of the 13th Chinese Process Control Conference, Macau and ZhuHai, China, Jul 29-Aug 2, 2002.
+- Siu, Shirley W. I.; Guo, Z. S. Application of electronic ticket to online trading with smart card technology. Proceedings of the 6th INFORMS Conference on Information Systems and Technology (CIST-2001), Miami Beach, Florida, U.S., Nov.3-4 2001, pp.222-239.
