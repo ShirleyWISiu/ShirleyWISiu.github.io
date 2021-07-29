@@ -10,7 +10,7 @@ Antimicrobial peptides (AMPs) are a valuable source of antimicrobial agents and 
 Deep-AmPEP30 is a promising prediction tool to identify short-length AMPs from genomic sequences for drug discovery. This method, together with our previous AMP predictor for longer-length peptides (AmPEP), are available at the **one-stop server [AxPEP](https://app.cbbio.online/ampep/home)** for both individual sequence prediction and genome screening for AMPs. 
 
 
->   - Yan, J.; Bhadra, P.; Li, A.; Sethiya, P.; Qin, L.; Tai, H. K.; Wong, K. H.; and Siu, Shirley W. I.* Deep-AmPEP30: Improve short antimicrobial peptides prediction with deep learning. Molecular Therapy - Nucleic Acid 2020, 20, 882-894.
->   - Bhadra, P.; Yan, J.; Li, J.; Fong, S.; Siu, Shirley W. I.* AmPEP: Sequence-based prediction of antimicrobial peptides using distribution patterns of amino acid properties and random forest. Scientific Reports 2018, 8, 1697. JCR-Q1
+>   - Yan, J.; Bhadra, P.; Li, A.; Sethiya, P.; Qin, L.; Tai, H. K.; Wong, K. H.; and Siu, Shirley W. I.* **Deep-AmPEP30: Improve short antimicrobial peptides prediction with deep learning**. Molecular Therapy - Nucleic Acid 2020, 20, 882-894.
+>   - Bhadra, P.; Yan, J.; Li, J.; Fong, S.; Siu, Shirley W. I.* **AmPEP: Sequence-based prediction of antimicrobial peptides using distribution patterns of amino acid properties and random forest**. Scientific Reports 2018, 8, 1697. JCR-Q1
 
 
