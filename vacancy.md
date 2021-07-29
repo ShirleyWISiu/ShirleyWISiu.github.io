@@ -9,7 +9,7 @@ The postdoctoral researcher will participate in the development of a novel adapt
 
 > For reference: [doi: 10.1016/j.omtn.2020.05.006](https://doi.org/10.1016/j.omtn.2020.05.006), [doi: 10.1038/s41551-021-00689-x](https://doi.org/10.1038/s41551-021-00689-x), [doi: 10.1098/rsfs.2016.0153](https://doi.org/10.1098/rsfs.2016.0153).
 
-This project is led by [Prof. Shirley Siu](https://cbbio.online), who will start a new research group at [Institute of Science and Environment (ISE)](http://ise.usj.edu.mo/) at [University of Saint Joseph](https://www.usj.edu.mo/en/)in September 2021. Her research focuses on algorithm design and solution implementation for computer-aided drug design, nature-inspired optimization, virtual screening, and molecular dynamics.
+This project is led by [Prof. Shirley Siu](https://cbbio.online), who will start a new research group at [Institute of Science and Environment (ISE)](http://ise.usj.edu.mo/) at [University of Saint Joseph](https://www.usj.edu.mo/en/) in September 2021. Her research focuses on algorithm design and solution implementation for computer-aided drug design, nature-inspired optimization, virtual screening, and molecular dynamics.
 
 ### Requirements of candidate 
 - PhD degree (obtained within the previous 5 years for a Macao resident and 1 year for a non-Macao resident)
