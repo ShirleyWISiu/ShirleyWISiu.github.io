@@ -1,5 +1,5 @@
 # Publications
-## Journal | [Conference](#Conference) 
+## Journal | [Conference](#conference) 
 ### 2021
 - Shaikh, F.; Tai, H. K.; Desai, N. and Siu, Shirley W. I.\* **[LigTMap: Ligand and structure-based target identification and activity prediction for small molecules](https://doi.org/10.1186/s13321-021-00523-1)**. *Journal of Cheminformatics* 2021, 13: 44. 
 - Wei, Ran; Wu, Qiushuang; Ai, Nana; Wang, Lei; Zhou, Mei; Shaw, Chris; Chen Tianbao; Ye Richard Dequan; Ge, Wei; Siu, Shirley W. I.; Kwok, Hang Fai. **[A novel bioengineered fragment peptide of Vasostatin-1 exerts smooth muscle pharmacological activities and anti-angiogenic effects via blocking VEGFR signalling pathway](https://doi.org/10.1016/j.csbj.2021.05.003)**. *Computational and Structural Biotechnology Journal* 2021, 19: 2664-2675.
@@ -67,7 +67,8 @@
 ### 2006
 - Antes, I.+*; Siu, Shirley W. I.+; Lengauer, T. DynaPred: A structure and sequence based method for the prediction of MHC class I binding peptide sequences and conformations. Bioinformatics 2006, 22 (14), e16-e24. JCR-Q1 +equal contributions
 
-# Conference
+#conference
+## Conference
 
 ### 2020
 - Chen, J.; Cheong, H. H and Siu, Shirley W. I. BESTox: A convolutional neural network regression model based on binary-encoded SMILES for acute oral toxicity prediction of chemical compounds. In: Martín-Vide C., Vega-Rodríguez M., Wheeler T. (eds) Algorithms for Computational Biology. AlCoB 2020. Lecture Notes in Computer Science, vol 12099. Springer, Cham
