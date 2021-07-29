@@ -1,4 +1,4 @@
-### Welcome to the CBxAI Lab
+### Welcome to the CBAI Group
 *-- This site is still under construction --*
 
 We focus on algorithm design, solution implementation and application on computer-aided drug design, nature-inspired optimization, virtual screening, and molecular dynamics.
