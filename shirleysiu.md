@@ -23,12 +23,12 @@
 - 10/05/2021	**Targeted Anticancer Peptides Discovery: Machine Learning and Molecular Study**	Deep Learning and Artificial Intelligence Summer School 2021 (DLAI5), Thailand (online)
 - 03/12/2019	**Development of Machine Learning Classifiers for Short Antimicrobial Peptide Prediction and Genome Screening**	Computer-Aided Drug Design Seminar & Workshop (CADD2019), Penang, Malaysia
 - 29/11/2018	**Swarm-Intelligence Approach to Protein-Ligand Docking**	Computer-Aided Drug Design Seminar & Workshop (CADD2018), Bali, Indonesia
-- 06/12/2017	Biomolecular Force Fields for Alkanethiol Self-Assembled Monolayers: Comparison and Parameter Tuning	Computer-Aided Drug Design Seminar & Workshop (CADD2017), Langkawi, Malaysia
-- 09/02/2017	Faster and Better Molecular Docking for Structure Swarm Intelligence Algorithms.	The 23rd ISCB International Conference (ISCBC‐2017) on “Interface of Chemical Biology in Drug Research”, SRM University, Chennai, India 
-- 12/11/2014	PSOVina: The Hybrid Particle Swarm Optimization Algorithm for Protein-Ligand Docking
+- 06/12/2017	**Biomolecular Force Fields for Alkanethiol Self-Assembled Monolayers: Comparison and Parameter Tuning**	Computer-Aided Drug Design Seminar & Workshop (CADD2017), Langkawi, Malaysia
+- 09/02/2017	**Faster and Better Molecular Docking for Structure Swarm Intelligence Algorithms**	The 23rd ISCB International Conference (ISCBC‐2017) on “Interface of Chemical Biology in Drug Research”, SRM University, Chennai, India 
+- 12/11/2014	**PSOVina: The Hybrid Particle Swarm Optimization Algorithm for Protein-Ligand Docking**
 	The 5th International Conference on Computational Systems-Biology and Bioinformatics (CSBio2014), Singapore
 - 15/12/2013
-	Comparison of Cutoff Strategies for Geometrical Features in Machine Learning-based Scoring Functions
+	**Comparison of Cutoff Strategies for Geometrical Features in Machine Learning-based Scoring Functions**
 	The 9th International Conference on Advanced Data Mining and Applications (ADMA2013), Hangzhou, China
 
 ### Conference Organizing Committee
