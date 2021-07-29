@@ -1,6 +1,6 @@
 ## Dr. Shirley Siu           [<img src="images/linkedin.jpg" width="20">](https://www.linkedin.com/in/shirley-weng-in-siu-7b584819/) [<img src="images/twitter.jpg" width="20">](https://twitter.com/shirleywisiu) [<img src="images/fb.jpg" width="20">](https://www.facebook.com/meetutako/) [<img src="images/google.jpg" width="20">](https://scholar.google.com/citations?user=iYkCq5QAAAAJ&hl=en&oi=sra) 
 
-<img src="images/shirleysiu.jpg" width="200"> | Associate Research Professor, Institute of Science and Environment, University of Saint Joseph, Macau - PI of  Computational Biology Area
+<img src="images/shirleysiu.jpg" width="180"> | Associate Research Professor, Institute of Science and Environment, University of Saint Joseph, Macau - PI of  Computational Biology Area
 
 ### Academic Position
 - **2021-present Associate Research Professor**, Institute of Science and Environment, University of Saint Joseph, Macau
@@ -11,11 +11,11 @@
 - **1997-2001 Teaching Assistant**, Department of Computer and Information Science, University of Macau
 
 ### Education
-- **2010-2011 Post-doc in Computational Biology**, *University of Erlangen*, Germany
-- **2010 PhD (Dr. rer. nat.) in Computational Biology**, *Department of Physics, Saarland University*, Germany
-- **2006 MSc in Computational Molecular Biology**, *Center for Bioinformatics in Saarland University & Max-Planck Institute for Computer Science*, Germany
-- **2001 MSc in Software Engineering**, *Department of Computer and Information Science, University of Macau*
-- **1997 BSc in Software Engineering**, *Department of Computer and Information Science, University of Macau*
+- **2010-2011 Post-doc in Computational Biology**, University of Erlangen, Germany
+- **2010 PhD (Dr. rer. nat.) in Computational Biology**, Department of Physics, Saarland University*, Germany
+- **2006 MSc in Computational Molecular Biology**, Center for Bioinformatics in Saarland University & Max-Planck Institute for Computer Science, Germany
+- **2001 MSc in Software Engineering**, Department of Computer and Information Science, University of Macau
+- **1997 BSc in Software Engineering**, Department of Computer and Information Science, University of Macau
 
 ### Contact
 Email: siuwengin at gmail.com; shirleywisiu at gmail.com
