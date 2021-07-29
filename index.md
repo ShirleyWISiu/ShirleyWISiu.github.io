@@ -2,8 +2,8 @@
 
 [Shirley Siu](shirleysiu.md) | Members | Research | [Publications](publications.md) | [Software](https://app.cbbio.online)
 
-We focus on the development of bioinformatics tools for drug discovery and design. We design optimization algorithms, machine learning and deep learning methods to tackle critical drug discovery problems such as protein-ligand binding, drug target identification, biological activity and toxicity predictions. We are also interested in modeling and simulating important biomolecules to understand their mode of action.
-
+Our mission is to improve computational methods to accelerate the drug discovery and development process. To this end, 
+we are developing bioinformatics tools that enable researchers to solve critical drug discovery problems including protein-ligand binding, drug target identification, biological activity and toxicity predictions. In particular, we perform docking and molecular dynamics simulations to discover how biological systems work. Our recent focus is on novel peptide discovery and activity prediction integrating machine learning and structural bioinformatics. 
 
 <span style="color:red">This site is still under construction, please check back later</span>
 
