@@ -10,18 +10,13 @@ Antimicrobial peptides (AMPs) are a valuable source of antimicrobial agents and 
 
 <img src="https://user-images.githubusercontent.com/5370511/127578327-8c7e57b1-4e62-4409-bed9-073a141c4c76.png" width="600">
 
-<!--- On a balanced benchmark dataset of 188 samples, Deep-AmPEP30 yields an improved performance of 77% in accuracy, 85% in the area under the receiver operating characteristic curve (AUC-ROC), and 85% in area under the precision-recall curve (AUC-PR) over existing machine learning-based methods. 
-![image](https://user-images.githubusercontent.com/5370511/127578327-8c7e57b1-4e62-4409-bed9-073a141c4c76.png)
---->
-
 To demonstrate its power, we screened the genome sequence of *Candida glabrata*—a gut commensal fungus expected to interact with and/or inhibit other microbes in the gut—for potential AMPs and identified a peptide of 20 aa (P3, FWELWKFLKSLWSIFPRRRP) with strong anti-bacteria activity against 
 *Bacillus subtilis* and *Vibrio parahaemolyticus*. The potency of the peptide is remarkably comparable to that of the antibiotics *ampicillin*. 
 
-<img src="images/axpep-assays.jpg" width="600">
+<img src="images/axpep-assays.jpg" width="500">
 
-<!---
-Deep-AmPEP30 is a promising prediction tool to identify short-length AMPs from genomic sequences for drug discovery. This method, together with our previous AMP predictor for longer-length peptides (AmPEP), are available at the **one-stop server [AxPEP](https://app.cbbio.online/ampep/home)** for both individual sequence prediction and genome screening for AMPs. 
---->
+Therefore, Deep-AmPEP30 and RF-AmPEP30 are promising tools in identifying short-length AMPs, and their application on the vast amount of publicly available genomic sequences would leverage short-length AMPs to their full potential in novel drug discovery and development.
+
 
 > References:
 >   - Yan, J.; Bhadra, P.; Li, A.; Sethiya, P.; Qin, L.; Tai, H. K.; Wong, K. H.; and Siu, Shirley W. I.* **Deep-AmPEP30: Improve short antimicrobial peptides prediction with deep learning**. Molecular Therapy - Nucleic Acid 2020, 20, 882-894.
