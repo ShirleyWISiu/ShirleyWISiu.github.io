@@ -19,7 +19,7 @@
 - **1997 BSc in Software Engineering**, Department of Computer and Information Science, University of Macau
 
 
-### Invited Talks
+### Invited Talk
 - 10/05/2021	**Targeted Anticancer Peptides Discovery: Machine Learning and Molecular Study**	Deep Learning and Artificial Intelligence Summer School 2021 (DLAI5), Thailand (online)
 - 03/12/2019	**Development of Machine Learning Classifiers for Short Antimicrobial Peptide Prediction and Genome Screening**	Computer-Aided Drug Design Seminar & Workshop (CADD2019), Penang, Malaysia
 - 29/11/2018	**Swarm-Intelligence Approach to Protein-Ligand Docking**	Computer-Aided Drug Design Seminar & Workshop (CADD2018), Bali, Indonesia
@@ -30,6 +30,12 @@
 - 15/12/2013
 	**Comparison of Cutoff Strategies for Geometrical Features in Machine Learning-based Scoring Functions**
 	The 9th International Conference on Advanced Data Mining and Applications (ADMA2013), Hangzhou, China
+
+### Invited Lecture/Workshop
+27/11/2018	**Molecular Docking (Theory and Lab Hands-on)**
+	Computer-Aided Drug Design Seminar & Workshop (CADD2018), Bali, Indonesia
+07/12/2017	**Principles of Molecular Dynamics**
+	Computer-Aided Drug Design Seminar & Workshop (CADD2017), Langkawi, Malaysia
 
 ### Conference Organizing Committee
 - Organizing committee, The 10th Anniversary Conference (ACCMS‐10) of the Asian Consortium on Computational Materials Science ― From Virtual To Real, 30 July - 2 Aug 2019, Hong Kong
