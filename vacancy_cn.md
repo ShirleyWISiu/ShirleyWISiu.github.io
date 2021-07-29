@@ -34,4 +34,5 @@
 - 显示获得高等教育学位的大学排名的支持文件
 
 
-## 欢迎有意向者将简历CV及其他資料於八月二十日前发至 萧博士的邮箱 siuwengin@gmail.com。
+### 欢迎有意向者将简历CV及其他資料於八月二十日前发至 萧博士的邮箱 siuwengin@gmail.com。
+有关资助计划的详细信息可在 [FDCT 网站](https://www.fdct.gov.mo/en/postdoc.html)上找到。
