@@ -1,6 +1,6 @@
 ## Dr. Shirley W. I. Siu           [<img src="images/linkedin.jpg" width="20">](https://www.linkedin.com/in/shirley-weng-in-siu-7b584819/) [<img src="images/twitter.jpg" width="20">](https://twitter.com/shirleywisiu) [<img src="images/fb.jpg" width="20">](https://www.facebook.com/meetutako/) [<img src="images/google.jpg" width="20">](https://scholar.google.com/citations?user=iYkCq5QAAAAJ&hl=en&oi=sra) 
 
-<img src="images/shirleysiu.jpg" width="200"> | Associate Research Professor <br /> Institute of Science and Environment <br /> University of Saint Joseph 
+<img src="images/shirleysiu.jpg" width="200"> | **Associate Research Professor** <br /> Institute of Science and Environment <br /> University of Saint Joseph <br /> email: shirleywisiu at gmail.com
 
 ### Academic Position
 - **2021-present Associate Research Professor**, Institute of Science and Environment, University of Saint Joseph, Macau
@@ -42,7 +42,7 @@
 
 
 ### Contact
-Email: siuwengin at gmail.com; shirleywisiu at gmail.com
+Email: shirleywisiu at gmail.com
 
 <!---
 Shirley was born in Macau. She completed her B.Sc. and M.Sc. degree in Software Engineering at University of Macau. In 2006, she received her second M.Sc. degree from the Center of Bioinformatics at Saarland University. Afterwards, she joined the Theoretical and Computational Membrane Biology group at the same University where she received her PhD degree (Dr. rer. nat.) from the Physics Department in 2010. Then, she continued one-year of post-doctoral training in the Computational Biology group at the University of Erlangen. She was the recipient of the academic excellence award in Macau Foundation Prize for First Honor Degree graduates in UM in 1997, the fellowship award in the Max Planck Research School for Computer Science from 2003-2005, and the doctoral scholarship in the Graduate School of Physics at Saarland University from 2006-2009.
