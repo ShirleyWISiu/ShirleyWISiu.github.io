@@ -6,3 +6,6 @@ author:
   name: Shirley W. I. Siu
   twitter: ShirleyWISiu
   picture: images/shirleysiu.png
+search: true
+search_full_content: true
+search_provider: algolia
