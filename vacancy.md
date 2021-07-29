@@ -1,4 +1,4 @@
-## Call for Post-Doctoral Applications 
+## Call for Post-Doctoral Applications in Machine Learning and Bioinformatics
 ([中文版](vacancy_cn.md))
 
 We are proposing a new applied project **Development of an adaptive biological function prediction software system for multifaceted peptides** under the funding scheme of *Postdoctoral Researchers of High Education Institutions of FDCT*. Associated with this project, 1 postdoctoral candidate from **Computer Science**, **Bioinformatics**, **Computer-Aided Drug Design**, or related areas is sought. 
