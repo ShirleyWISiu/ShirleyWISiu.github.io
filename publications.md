@@ -1,10 +1,10 @@
 # Journal and Conference Publications
 ## Journal 
 ### 2021
-- Shaikh, F.; Tai, H. K.; Desai, N. and Siu, Shirley W. I.* LigTMap: Ligand and structure-based target identification and activity prediction for small molecules. Journal of Cheminformatics 2021, Accepted on 29/05/2021.
-- Wei, Ran; Wu, Qiushuang; Ai, Nana; Wang, Lei; Zhou, Mei; Shaw, Chris; Chen Tianbao; Ye Richard Dequan; Ge, Wei; Siu, Shirley W. I.; Kwok, Hang Fai. A novel bioengineered fragment peptide of Vasostatin-1 exerts smooth muscle pharmacological activities and anti-angiogenic effects via blocking VEGFR signalling pathway. Computational and Structural Biotechnology Journal 2021, 19, 2664-2675.
-- Zai, Yu.; Xi, Xinping; Ye, Zhuming; Ma, Chengbang; Zhou, Mei; Chen, Xiaoling; Siu, Shirley W. I.; Chen, Tianbao; Wang, Lei; Kwok, Hang Fai. Aggregation and its influence on the bioactivities of a novel antimicrobial peptide, Temporin-PF, and its analogues. International Journal of Molecular Sciences 2021, 22, 4509.
-- Bhadra, P. and Siu, Shirley W. I.* Effect of concentration, chain length, hydrophobicity, and an external electric fields on the growth of mixed alkanethiol self-assembled monolayers: A molecular dynamics study. Langmuir 2021, 37, 5, 1913–1924.
+- Shaikh, F.; Tai, H. K.; Desai, N. and Siu, Shirley W. I.\* **[LigTMap: Ligand and structure-based target identification and activity prediction for small molecules](https://doi.org/10.1186/s13321-021-00523-1)**. *Journal of Cheminformatics* 2021, 13: 44. 
+- Wei, Ran; Wu, Qiushuang; Ai, Nana; Wang, Lei; Zhou, Mei; Shaw, Chris; Chen Tianbao; Ye Richard Dequan; Ge, Wei; Siu, Shirley W. I.; Kwok, Hang Fai. **[A novel bioengineered fragment peptide of Vasostatin-1 exerts smooth muscle pharmacological activities and anti-angiogenic effects via blocking VEGFR signalling pathway](https://doi.org/10.1016/j.csbj.2021.05.003)**. *Computational and Structural Biotechnology Journal* 2021, 19: 2664-2675.
+- Zai, Yu.; Xi, Xinping; Ye, Zhuming; Ma, Chengbang; Zhou, Mei; Chen, Xiaoling; Siu, Shirley W. I.; Chen, Tianbao; Wang, Lei; Kwok, Hang Fai. **[Aggregation and its influence on the bioactivities of a novel antimicrobial peptide, Temporin-PF, and its analogues](https://doi.org/10.3390/ijms22094509)**. *International Journal of Molecular Sciences* 2021, 22, 4509.
+- Bhadra, P. and Siu, Shirley W. I.\* **[Effect of concentration, chain length, hydrophobicity, and an external electric fields on the growth of mixed alkanethiol self-assembled monolayers: A molecular dynamics study](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.0c03414)**. *Langmuir* 2021, 37 (5): 1913–1924.
 
 ### 2020
 - Li, Tengyue; Fong, Simon; Siu, Shirley W. I.; Yang, Xin-she; Liu, Lian-Sheng; Mohammed, Sabah. White learning methodology: A case study of cancer-related disease factors analysis in real-time PACS environment. Computer Methods and Programs in Biomedicine 2020, 197: 105724. JCR-Q1
