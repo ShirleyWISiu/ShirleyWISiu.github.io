@@ -1,9 +1,9 @@
-### Welcome to Shirley Siu's Lab Page
-*--This site is still under construction--*
+### Welcome to the CBxAI Lab
+*-- This site is still under construction --*
 
-We focus on algorithm design and solution implementation for computer-aided drug design, nature-inspired optimization, virtual screening, and molecular dynamics.
+We focus on algorithm design, solution implementation and application on computer-aided drug design, nature-inspired optimization, virtual screening, and molecular dynamics.
 
-<img src="images/adsorb.jpg" width="200"> |
+| <img src="images/adsorb.jpg" width="200"> |
 <img src="images/dock.jpg" width="200"> |
 <img src="images/ml.jpg" width="200"> |
 <img src="images/vs.jpg" width="200"> |
