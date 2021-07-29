@@ -27,10 +27,10 @@ This project is led by [Prof. Shirley Siu](https://cbbio.online), who will start
 - Monthly salary MOP 30,000 (about USD 3700)
 - Full time, up to 2 years
 
-### Application deadline: 
+### Application deadline
 - For applications received before **20 August 2021**, the finally selected candidate will be included in the fund proposal
 
-### Application documents:
+### Application documents
 - Curriculum Vitae 
 - Copies of 2-3 selected scientific publications
 - PhD degree certificate (with final thesis document) 
