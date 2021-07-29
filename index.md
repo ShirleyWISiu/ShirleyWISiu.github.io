@@ -5,10 +5,10 @@
 Our mission is to improve computational methods to accelerate the drug discovery and development process. To this end, 
 we are developing bioinformatics tools that enable researchers to solve critical drug discovery problems including protein-ligand binding, drug target identification, biological activity and toxicity predictions. In particular, we perform docking and molecular dynamics simulations to discover how biological systems work. Our current focus is on the discovery of novel peptides and the prediction of their activity involving machine learning and structural bioinformatics.
 
-<span style="color:red">This site is still under construction, please check back later</span>
+<span style="color:red">This site is still under construction, please check back later.</span>
 
 
-### Check out our openings
+### Openings
 - [Call for application - Postdoctoral researcher](vacancy.md) ([中文版](vacancy_cn.md))
 
 
@@ -20,4 +20,4 @@ we are developing bioinformatics tools that enable researchers to solve critical
 
 ### Links
 - [Shirley Siu's Lab page at University of Macau](https://cbbio.online)
-- [Institute of Science and Environment, University of Saint Joseph](http://ise.usj.edu.mo/)
+- [Institute of Science and Environment, University of Saint Joseph, Macau](http://ise.usj.edu.mo/)
