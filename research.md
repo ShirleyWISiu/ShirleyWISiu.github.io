@@ -17,6 +17,8 @@ Antimicrobial peptides (AMPs) are a valuable source of antimicrobial agents and 
 To demonstrate its power, we screened the genome sequence of *Candida glabrata*—a gut commensal fungus expected to interact with and/or inhibit other microbes in the gut—for potential AMPs and identified a peptide of 20 aa (P3, FWELWKFLKSLWSIFPRRRP) with strong anti-bacteria activity against 
 *Bacillus subtilis* and *Vibrio parahaemolyticus*. The potency of the peptide is remarkably comparable to that of the antibiotics *ampicillin*. 
 
+<img src="images/axpep-assays.jpg" width="600">
+
 <!---
 Deep-AmPEP30 is a promising prediction tool to identify short-length AMPs from genomic sequences for drug discovery. This method, together with our previous AMP predictor for longer-length peptides (AmPEP), are available at the **one-stop server [AxPEP](https://app.cbbio.online/ampep/home)** for both individual sequence prediction and genome screening for AMPs. 
 --->
