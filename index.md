@@ -3,6 +3,8 @@
 
 We focus on algorithm design and solution implementation for computer-aided drug design, nature-inspired optimization, virtual screening, and molecular dynamics.
 
+<img src="images/adsorb.jpg" width="200">
+
 ### Check out our openings
 - [Postdoctoral researcher](vacancy.md) [中文版](vacancy_cn.md)
 
