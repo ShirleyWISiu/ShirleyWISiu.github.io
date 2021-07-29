@@ -1,6 +1,6 @@
 ## Dr. Shirley W. I. Siu           [<img src="images/linkedin.jpg" width="20">](https://www.linkedin.com/in/shirley-weng-in-siu-7b584819/) [<img src="images/twitter.jpg" width="20">](https://twitter.com/shirleywisiu) [<img src="images/fb.jpg" width="20">](https://www.facebook.com/meetutako/) [<img src="images/google.jpg" width="20">](https://scholar.google.com/citations?user=iYkCq5QAAAAJ&hl=en&oi=sra) 
 
-<img src="images/shirleysiu.jpg" width="200"> | Associate Research Professor
+<img src="images/shirleysiu.jpg" width="200"> | Associate Research Professor - University of Saint Joseph
 
 ### Academic Position
 - **2021-present Associate Research Professor**, Institute of Science and Environment, University of Saint Joseph, Macau
@@ -22,6 +22,23 @@
 - Council Member of Macau Computational Pharmacy Society (計算藥學協會)
 - Member of Macau Bioinformatics Society  (澳門生物信息學學會)
 - Member of Computer-Aided Drug Design-Asia (CADD-Asia)
+
+### Conference Organizing Committee
+- Organizing committee, The 10th Anniversary Conference (ACCMS‐10) of the Asian Consortium on Computational Materials Science ― From Virtual To Real, 30 July - 2 Aug 2019, Hong Kong
+- Symposium chair, The 10th International Conference on Computational Physics 2017 – Mini-symposium “Modeling and Simulation of Macromolecular Systems” (ICCP10), 16-20 Jan 2017, Macau
+- Chair, The 7th International Conference on Computational Systems-Biology and Bioinformatics 2016 (CSBio2016), 19 - 22 Dec 2016, Macau
+- Organizing committee, The International Conference on Web-Age Information Management (WAIM2014), 16 - 18 Jun 2014, Macau
+
+### Conference Program Committee 
+- The Asia Pacific Bioinformatics Conference (APBC2020, 2021)
+- International Conference on Bioinformatics and Biomedical Technology (ICBBT-2020, 2021)
+- Joint 30th International Conference on Genome Informatics & Australian Bioinformatics and Computational Biology Society (GIW/ABACBS 2019)
+-	International Conference of The Asian Consortium on Computational Materials Science (ACCMS-10, 2019) 
+-	International Joint Conference on Neural Networks (IJCNN 2018, 2017, 2016)
+-	The 7th International Conference on Computational Systems-Biology and Bioinformatics (CSBio2016)
+-	Congress on Evolutionary Computation (CEC 2018, 2016, 2015)
+-	IEEE TECON Macau (2015)
+-	International Conference on Biomedical Engineering and Biotechnology (ICBEB 2015, 2014)
 
 
 ### Contact
