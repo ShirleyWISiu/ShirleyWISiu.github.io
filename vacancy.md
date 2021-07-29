@@ -12,7 +12,7 @@ We are proposing a new applied project **Development of an adaptive biological f
 The postdoctoral researcher will participate in the development of a novel adaptive software system which integrates ML and AI methods for bioactive peptide discovery. The main tasks include data collection, processing, design and implementation of prediction models, and integration into a unified framework. Reimplementation and refinement of some state-of-the-art AI methods are expected. 
 
 
->For reference: https://doi.org/10.1016/j.omtn.2020.05.006, https://doi.org/10.1038/s41551-021-00689-x, https://doi.org/10.1098/rsfs.2016.0153.
+> For reference: https://doi.org/10.1016/j.omtn.2020.05.006, https://doi.org/10.1038/s41551-021-00689-x, https://doi.org/10.1098/rsfs.2016.0153.
 
 This project is led by [Prof. Shirley Siu](https://cbbio.online), who will start a new research group at ISE in September 2021. Her research focuses on algorithm design and solution implementation for computer-aided drug design, nature-inspired optimization, virtual screening, and molecular dynamics.
 
