@@ -1,4 +1,4 @@
-## Dr. Shirley Siu           [<img src="images/linkedin.jpg" width="20">](https://www.linkedin.com/in/shirley-weng-in-siu-7b584819/) [<img src="images/twitter.jpg" width="20">](https://twitter.com/shirleywisiu) [<img src="images/fb.jpg" width="20">](https://www.facebook.com/meetutako/) [<img src="images/gs.jpg" width="20">](https://scholar.google.com/citations?user=iYkCq5QAAAAJ&hl=en&oi=sra) 
+## Dr. Shirley Siu           [<img src="images/linkedin.jpg" width="20">](https://www.linkedin.com/in/shirley-weng-in-siu-7b584819/) [<img src="images/twitter.jpg" width="20">](https://twitter.com/shirleywisiu) [<img src="images/fb.jpg" width="20">](https://www.facebook.com/meetutako/) [<img src="images/google.jpg" width="20">](https://scholar.google.com/citations?user=iYkCq5QAAAAJ&hl=en&oi=sra) 
 
 
 [CBBIO](https://cbbio.online)
@@ -27,4 +27,5 @@ She is the member of the Asian Association for Computer-Aided Drug Design (CADD-
 - 1997 B.Sc. in Software Engineering, Department of Computer and Information Science, University of Macau 
 
 ### Contact
-siuwengin at gmail.com; shirleywisiu at gmail.com
+Email: siuwengin at gmail.com; shirleywisiu at gmail.com
+
