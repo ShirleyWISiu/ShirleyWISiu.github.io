@@ -5,6 +5,7 @@
 ### Academic Position
 - **2021-present Associate Research Professor**, Institute of Science and Environment, University of Saint Joseph, Macau
 - **2021-present Adjunct Assistant Professor**, Department of Computer and Information Science, University of Macau
+- **2020-present Visiting Professor**, Department of Pharmaceutical Sciences, Universiti Sains Malaysia, Malaysia
 - **2012-2021 Assistant professor**, Department of Computer and Information Science, University of Macau
 - **2009-2012 Senior instructor**, Department of Computer and Information Science, University of Macau
 - **2001-2003 Junior lecturer**, Department of Computer and Information Science, University of Macau
@@ -16,6 +17,12 @@
 - **2006 MSc in Computational Molecular Biology**, Center for Bioinformatics in Saarland University & Max-Planck Institute for Computer Science, Germany
 - **2001 MSc in Software Engineering**, Department of Computer and Information Science, University of Macau
 - **1997 BSc in Software Engineering**, Department of Computer and Information Science, University of Macau
+
+### Affilitation
+- Council Member of Macau Computational Pharmacy Society (計算藥學協會)
+- Member of Macau Bioinformatics Society  (澳門生物信息學學會)
+- Member of Computer-Aided Drug Design-Asia (CADD-Asia)
+
 
 ### Contact
 Email: siuwengin at gmail.com; shirleywisiu at gmail.com
