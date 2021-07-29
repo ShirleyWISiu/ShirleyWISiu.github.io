@@ -10,7 +10,7 @@ Antimicrobial peptides (AMPs) are a valuable source of antimicrobial agents and 
 
 <img src="https://user-images.githubusercontent.com/5370511/127578327-8c7e57b1-4e62-4409-bed9-073a141c4c76.png" width="600">
 
-To demonstrate its power, we screened the genome sequence of *Candida glabrata*—a gut commensal fungus expected to interact with and/or inhibit other microbes in the gut—for potential AMPs and identified a peptide of 20 aa (P3, FWELWKFLKSLWSIFPRRRP) with strong anti-bacteria activity against 
+To demonstrate their power, we screened the genome sequence of *Candida glabrata*—a gut commensal fungus expected to interact with and/or inhibit other microbes in the gut—for potential AMPs and identified a peptide of 20 aa (P3, FWELWKFLKSLWSIFPRRRP) with strong anti-bacteria activity against 
 *Bacillus subtilis* and *Vibrio parahaemolyticus*. The potency of the peptide is remarkably comparable to that of the antibiotics *ampicillin*. 
 
 <img src="images/axpep-assays.jpg" width="500">
