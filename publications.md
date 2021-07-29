@@ -67,7 +67,7 @@
 ### 2006
 - Antes, I.+*; Siu, Shirley W. I.+; Lengauer, T. DynaPred: A structure and sequence based method for the prediction of MHC class I binding peptide sequences and conformations. Bioinformatics 2006, 22 (14), e16-e24. JCR-Q1 +equal contributions
 
-## Conference
+# Conference
 
 ### 2020
 - Chen, J.; Cheong, H. H and Siu, Shirley W. I. BESTox: A convolutional neural network regression model based on binary-encoded SMILES for acute oral toxicity prediction of chemical compounds. In: Martín-Vide C., Vega-Rodríguez M., Wheeler T. (eds) Algorithms for Computational Biology. AlCoB 2020. Lecture Notes in Computer Science, vol 12099. Springer, Cham
