@@ -1,11 +1,9 @@
 theme: jekyll-theme-cayman
-title: Computational Biology and Artificial Intelligence
+name: Computational Biology and Artificial Intelligence
 email: siuwengin@gmail.com
 description: Computational Biology and Artificial Intelligence Group - Institute of Science and Environment - University of Saint Joseph
 author:
   name: Shirley W. I. Siu
   twitter: ShirleyWISiu
   picture: images/shirleysiu.png
-search: true
-search_full_content: true
-search_provider: algolia
+markdown: kramdown
