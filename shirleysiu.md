@@ -31,10 +31,10 @@
 	The 9th International Conference on Advanced Data Mining and Applications (ADMA2013), Hangzhou, China, 15/12/2013
 
 ### Invited Lecture/Workshop
-27/11/2018	**Molecular Docking (Theory and Lab Hands-on)**
-	Computer-Aided Drug Design Seminar & Workshop (CADD2018), Bali, Indonesia
-07/12/2017	**Principles of Molecular Dynamics**
-	Computer-Aided Drug Design Seminar & Workshop (CADD2017), Langkawi, Malaysia
+- **Molecular Docking (Theory and Lab Hands-on)**
+	Computer-Aided Drug Design Seminar & Workshop (CADD2018), Bali, Indonesia, 27/11/2018	
+- **Principles of Molecular Dynamics**
+	Computer-Aided Drug Design Seminar & Workshop (CADD2017), Langkawi, Malaysia, 07/12/2017	
 
 ### Conference Organizing Committee
 - Organizing committee, The 10th Anniversary Conference (ACCMS‐10) of the Asian Consortium on Computational Materials Science ― From Virtual To Real, 30 July - 2 Aug 2019, Hong Kong
