@@ -34,15 +34,13 @@
 - BSc Bioinformatics, University of Saurashtra, India
 - MSc Bioinformatics, Sri Ramachandra University, India
 - PhD thesis: Computational Approaches for Target Identification and Novel Inhibitor Discovery (May 2020)
-
-<span style="color:red">Current: Postdoc at Institute for Research in Immunology and Cancer (IRIC), University of Montreal, Canada</span>
+- Current: [Postdoc at Institute for Research in Immunology and Cancer (IRIC), University of Montreal, Canada](https://www.iric.ca/en/directory/faraz-mohammadali-shaikh)
 
 ### Pratiti Bhadra (Postdoc)
 - BTech Information Technology, RCC Institute of Information Technology (WBUT), Kolkata, West Bengal, India
 - PhD Interdisciplinary Mathematical Sciences PhD program (Computational Biology Stream), Indian Institute of Science, Bangalore, India
 - Research area: molecular dynamics simulation of self-assembled monolayers
-- Current: [Postdoc with Volkhard Helms](https://www-cbi.cs.uni-saarland.de/people/postdocs/dr-pratiti-bhadra/), Center of Bioinformatics, Saarland University, Germany
-<span style="color:blue">Current: Postdoc with Volkhard Helms, Center of Bioinformatics, Saarland University, Germany</span>
+- Current: [Postdoc with Volkhard Helms, Center of Bioinformatics, Saarland University, Germany](https://www-cbi.cs.uni-saarland.de/people/postdocs/dr-pratiti-bhadra/)
 
 ### Lu GAO (Master student) 
 <img src="images/louis.jpg" width="150">
