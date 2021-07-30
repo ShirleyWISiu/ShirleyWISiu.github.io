@@ -19,5 +19,5 @@ we are developing bioinformatics tools that enable researchers to solve critical
 
 
 ## Links
-- [Shirley Siu's Lab page at University of Macau](https://cbbio.online)
+- [Shirley Siu's Lab page at the University of Macau](https://cbbio.online)
 - [Institute of Science and Environment, University of Saint Joseph, Macau](http://ise.usj.edu.mo/)
