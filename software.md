@@ -34,3 +34,4 @@
 PyMOL Mobile controller for molecular visualization
 
 <img src="images/mcontrol-logo.png" width="250">
+
