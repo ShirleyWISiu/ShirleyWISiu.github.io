@@ -12,27 +12,27 @@
 ---
 # Downloadable Software
 ## Protein-Ligand Docking 
-[PSOVina](https://app.cbbio.online/psovina/home)<br />Particle swarm optimization for ligand conformational search 
+[PSOVina](https://cbbio.online/software/psovina/index.html)<br />Particle swarm optimization for ligand conformational search 
 
 <img src="images/psovina-logo.png" width="250"> 
 
-[GWOVina](https://app.cbbio.online/gwovina/home)<br />Grey wolf optimization for ligand and protein sidechain flexibility 
+[GWOVina](https://cbbio.online/software/gwovina/index.html)<br />Grey wolf optimization for ligand and protein sidechain flexibility 
 
 <img src="images/gwovina-logo.png" width="250">
 
 ## Self-Assembled Monolayers
 
-[SAMFF](https://sourceforge.net/projects/samff/)<br />A refined empirical force field to model protein-SAM interactions based on GAFF and AMBER14
+[SAMFF](https://cbbio.online/software/SAMFF/index.html)<br />A refined empirical force field to model protein-SAM interactions based on GAFF and AMBER14
 
 <img src="images/samff-logo.png" width="300">
 
-[ProtPOS](https://sourceforge.net/projects/protpos/)<br />Fast prediction of protein preferred  orientation on a surface
+[ProtPOS](https://cbbio.online/software/protpos)<br />Fast prediction of protein preferred  orientation on a surface
 
-<img src="images/paos-logo.png" width="300">
+<img src="images/paos-logo.png" width="250">
 
 
 ## Molecular Visualization
-PyMOL Mobile controller for molecular visualization
+[mControl](https://cbbio.online/mcontrol.html)<br />PyMOL Mobile controller for molecular visualization
 
 <img src="images/mcontrol-logo.png" width="300">
 
