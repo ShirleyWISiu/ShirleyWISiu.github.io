@@ -12,13 +12,17 @@
 ---
 # Downloadable Software
 ## Protein-Ligand Docking 
-[PSOVina](https://app.cbbio.online/psovina/home)<br />Particle swarm optimization for ligand conformational search | <img src="images/psovina-logo.png" width="250"> 
+[PSOVina](https://app.cbbio.online/psovina/home)<br />Particle swarm optimization for ligand conformational search 
+<img src="images/psovina-logo.png" width="250"> 
 
-[GWOVina](https://app.cbbio.online/gwovina/home)<br />Grey wolf optimization for ligand and protein sidechain flexibility | <img src="images/gwovina-logo.png" width="250"> 
+[GWOVina](https://app.cbbio.online/gwovina/home)<br />Grey wolf optimization for ligand and protein sidechain flexibility 
+<img src="images/gwovina-logo.png" width="250"> 
 
 ## Self-Assembled Monolayers
 
-[SAMFF](https://sourceforge.net/projects/samff/)<br />A refined empirical force field to model protein-SAM interactions based on GAFF and AMBER14 |<img src="images/samff-logo.png" width="250">
+[SAMFF](https://sourceforge.net/projects/samff/)<br />A refined empirical force field to model protein-SAM interactions based on GAFF and AMBER14 
+<img src="images/samff-logo.png" width="250">
 
-[ProtPOS](https://sourceforge.net/projects/protpos/)<br />Fast prediction of protein preferred  orientation on a surface|<img src="images/paos-logo.png" width="250">
+[ProtPOS](https://sourceforge.net/projects/protpos/)<br />Fast prediction of protein preferred  orientation on a surface
+<img src="images/paos-logo.png" width="250">
 
