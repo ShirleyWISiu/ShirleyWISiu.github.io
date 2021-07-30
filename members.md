@@ -41,7 +41,7 @@
 - BTech Information Technology, RCC Institute of Information Technology (WBUT), Kolkata, West Bengal, India
 - PhD Interdisciplinary Mathematical Sciences PhD program (Computational Biology Stream), Indian Institute of Science, Bangalore, India
 - Research area: molecular dynamics simulation of self-assembled monolayers
-
+- Current: [Postdoc with Volkhard Helms](https://www-cbi.cs.uni-saarland.de/people/postdocs/dr-pratiti-bhadra/), Center of Bioinformatics, Saarland University, Germany
 <span style="color:blue">Current: Postdoc with Volkhard Helms, Center of Bioinformatics, Saarland University, Germany</span>
 
 ### Lu GAO (Master student) 
