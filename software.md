@@ -22,9 +22,9 @@
 
 ## Self-Assembled Monolayers
 
-[SAMFF](https://sourceforge.net/projects/samff/)<br />A refined empirical force field to model protein-SAM interactions based on GAFF and AMBER14 
-
-<img src="images/samff-logo.png" width="250">
+|:-:|
+|[SAMFF](https://sourceforge.net/projects/samff/)<br />A refined empirical force field to model protein-SAM interactions based on GAFF and AMBER14|
+|<img src="images/samff-logo.png" width="250">|
 
 [ProtPOS](https://sourceforge.net/projects/protpos/)<br />Fast prediction of protein preferred  orientation on a surface
 
