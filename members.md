@@ -78,7 +78,7 @@
 - Master thesis: An improved algorithm for the prediction of dimeric transmembrane domains of bitopic proteins (August 2014)
 
 ### Wendy Wun Teng LAM (Bachelor student)
-<img src="images/wendy.jpg" width="150">
+<img src="images/wendylam.jpg" width="150">
 - Bachelor thesis: PyMOL mControl: Manipulating molecular visualization with mobile devices (May 2016)
 
 ### Ricardo Brito (Bachelor student)
