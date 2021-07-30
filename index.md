@@ -1,6 +1,6 @@
 # Welcome to Computational Biology Lab
 
-[Shirley W. I. Siu](shirleysiu.md) | Members | [Research](research.md) | [Publications](publications.md) | [Software](https://app.cbbio.online)
+[Shirley W. I. Siu](shirleysiu.md) | [Members](members.md) | [Research](research.md) | [Publications](publications.md) | [Software](https://app.cbbio.online)
 
 Our mission is to improve computational methods to accelerate the drug discovery and development process. To this end, 
 we are developing bioinformatics tools that enable researchers to solve critical drug discovery problems including protein-ligand binding, drug target identification, biological activity and toxicity predictions. In particular, we perform docking and molecular dynamics simulations to discover how biological systems work. Our current focus is on the discovery of novel peptides and the prediction of their activity involving machine learning and structural bioinformatics.
