@@ -19,3 +19,9 @@
 <img src="images/edison.jpg" width="150"> ![image](https://user-images.githubusercontent.com/5370511/127591595-5b71320b-0cd9-4050-a917-8254428c9b5d.png)
 - BSc Computer Science, University of Macau
 - Task: Development and maintainance of the [app server](https://app.cbbio.online)
+
+## Previous members 
+### Ray Jiarui CHEN          
+<img src="images/ray.jpg" width="150"> ![image](https://user-images.githubusercontent.com/5370511/127592904-433f76a5-ffc6-455d-8a5a-d4e6b52426e9.png)
+- BSc Computer Science and Technology, Northwestern Polytechnical University, Ming De College
+- MSc Thesis: Improving Machine Learning Based Toxicity Prediction: From Supervised Learning to Semi-supervised Learning
