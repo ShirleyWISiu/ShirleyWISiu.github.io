@@ -1,6 +1,6 @@
 ## Dr. Shirley W. I. Siu           [<img src="images/linkedin.jpg" width="20">](https://www.linkedin.com/in/shirley-weng-in-siu-7b584819/) [<img src="images/twitter.jpg" width="20">](https://twitter.com/shirleywisiu) [<img src="images/fb.jpg" width="20">](https://www.facebook.com/meetutako/) [<img src="images/google.jpg" width="20">](https://scholar.google.com/citations?user=iYkCq5QAAAAJ&hl=en&oi=sra) 
 
-<img src="images/shirleysiu.jpg" width="200"> | **Associate Research Professor** <br /> Institute of Science and Environment <br /> University of Saint Joseph <br /> <br /> email 1: *shirleywisiu* at *gmail.com* <br />email 2:*siuwengin* at *gmail.com*
+<img src="images/shirleysiu.jpg" width="200"> | **Associate Research Professor** <br /> Institute of Science and Environment <br /> University of Saint Joseph <br /> <br /> email 1: *shirleywisiu* at *gmail.com* <br />email 2: *siuwengin* at *gmail.com*
 
 ### Academic Position
 - **2021-present Associate Research Professor**, Institute of Science and Environment, University of Saint Joseph, Macau
