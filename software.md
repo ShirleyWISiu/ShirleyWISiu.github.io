@@ -12,9 +12,9 @@
 ---
 # Downloadable Software
 ## Protein-Ligand Docking 
-[PSOVina](https://app.cbbio.online/psovina/home)<br />Particle swarm optimization for ligand conformational search combined with Singer chaotic function | <img src="images/psovina-logo.png" width="250"> 
+[PSOVina](https://app.cbbio.online/psovina/home)<br />Particle swarm optimization for ligand conformational search | <img src="images/psovina-logo.png" width="250"> 
 
-[GWOVina](https://app.cbbio.online/gwovina/home)<br />Grey wolf optimization for ligand and protein sidechain conformational search | <img src="images/gwovina-logo.png" width="250"> 
+[GWOVina](https://app.cbbio.online/gwovina/home)<br />Grey wolf optimization for ligand and protein sidechain flexibility | <img src="images/gwovina-logo.png" width="250"> 
 
 ## Self-Assembled Monolayers
 
