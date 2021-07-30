@@ -36,7 +36,7 @@
 - PhD thesis: Computational Approaches for Target Identification and Novel Inhibitor Discovery (May 2020)
 - Current: [Postdoc at Institute for Research in Immunology and Cancer (IRIC), University of Montreal, Canada](https://www.iric.ca/en/directory/faraz-mohammadali-shaikh)
 
-### Pratiti Bhadra (Postdoc)
+### Pratiti Bhadra (Postdoc, 2016-2018)
 - BTech Information Technology, RCC Institute of Information Technology (WBUT), Kolkata, West Bengal, India
 - PhD Interdisciplinary Mathematical Sciences PhD program (Computational Biology Stream), Indian Institute of Science, Bangalore, India
 - Research area: molecular dynamics simulation of self-assembled monolayers
@@ -54,7 +54,7 @@
 ### Meng Chi AO (Master student) 
 - Master thesis: Evaluating variants of firefly algorithm for ligand pose prediction in protein-ligand docking program (May 2020)
 
-### Hoi Kuan TAI (Master student) 
+### Hoi Kuan TAI (Master student and Research Assistant, 2018-2020) 
 <img src="images/giotto.jpg" width="150">
 - Master thesis: Protein-ligand docking and virtual screening based on chaos-embedded particle swarm optimization (May 2018)
 
