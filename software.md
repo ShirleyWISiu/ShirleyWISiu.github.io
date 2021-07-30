@@ -2,7 +2,7 @@
 
 <kbd><img src="images/axpep-logo.jpg" width="150"></kbd> | [AxPEP](https://app.cbbio.online/ampep/home)<br />Antimicrobial peptide classification methods<br />AmPEP, Deep-AmPEP30, RF-AmPEP30
 
-<kbd><img src="images/acpep-logo.png" width="150"></kbd>| [AcPEP](https://app.cbbio.online/acpep/home)<br />Anticancer peptide classification and cancer-type biological activity prediction <br />xDeep-AcPEP
+<kbd><img src="images/acpep-logo.png" width="160"></kbd>| [AcPEP](https://app.cbbio.online/acpep/home)<br />Anticancer peptide classification and cancer-type biological activity prediction <br />xDeep-AcPEP
 
 <kbd><img src="images/ligtmap-logo.png" width="150"></kbd> | [LigTMap](https://cbbio.online/LigTMap)<br />Chemical compound target identification and activity prediction 
 
