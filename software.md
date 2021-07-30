@@ -6,4 +6,4 @@
 
 <kbd><img src="images/ligtmap-logo.png" width="200"></kbd> | [LigTMap](https://cbbio.online/LigTMap)<br />Chemical compound target identification and activity prediction 
 
-<kbd><img src="images/bestox-logo.jpg" width="210"></kbd> | [BESTox](https://app.cbbio.online/bestox/home)<br />Chemical compound toxicity prediction (acute oral toxicity LD50 value)
+<kbd><img src="images/bestox-logo.jpg" width="220"></kbd> | [BESTox](https://app.cbbio.online/bestox/home)<br />Chemical compound toxicity prediction (acute oral toxicity LD50 value)
