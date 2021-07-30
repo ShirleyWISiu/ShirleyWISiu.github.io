@@ -22,4 +22,7 @@ Therefore, Deep-AmPEP30 and RF-AmPEP30 are promising tools in identifying short-
 >   - Yan, J.; Bhadra, P.; Li, A.; Sethiya, P.; Qin, L.; Tai, H. K.; Wong, K. H.; and Siu, Shirley W. I.* **Deep-AmPEP30: Improve short antimicrobial peptides prediction with deep learning**. Molecular Therapy - Nucleic Acid 2020, 20, 882-894.
 >   - Bhadra, P.; Yan, J.; Li, J.; Fong, S.; Siu, Shirley W. I.* **AmPEP: Sequence-based prediction of antimicrobial peptides using distribution patterns of amino acid properties and random forest**. Scientific Reports 2018, 8, 1697. JCR-Q1
 
+## Links
+- [Shirley Siu's Lab page at the University of Macau](https://cbbio.online)
+- [Institute of Science and Environment, University of Saint Joseph, Macau](http://ise.usj.edu.mo/)
 
