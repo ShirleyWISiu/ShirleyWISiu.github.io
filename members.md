@@ -76,6 +76,7 @@
 ### Han CAO (Master student) 
 <img src="images/caohan.jpg" width="150">
 - Master thesis: An improved algorithm for the prediction of dimeric transmembrane domains of bitopic proteins (August 2014)
+- Current: [PhD Bioinformatics, Central Institue of Mental Health Mannheim, Germany](https://www.zi-mannheim.de/en/research/people/person/10779.html)
 
 ### Wendy Wun Teng LAM (Bachelor student)
 <img src="images/wendylam.jpg" width="150">
@@ -84,6 +85,7 @@
 ### Ricardo Brito (Bachelor student)
 <img src="images/ricardo.jpg" width="150">
 - Bachelor thesis: Towards parallelizing the protein-ligand docking algorithm on the GPU using CUDA (May 2015)
+- Current: PhD Computer Science, University of Macau
 
 ### Chon Kit NG (Bachelor student)
 <img src="images/marcusng.jpg" width="150">
