@@ -16,7 +16,7 @@
 
 Particle swarm optimization for ligand conformational search combined with Singer chaotic function
 
-<img src="images/psovina-logo.png" width="250"> 
+<img src="images/psovina-logo.png" width="260"> 
 
 [GWOVina](https://cbbio.online/software/gwovina/index.html)
 
@@ -30,7 +30,7 @@ Grey wolf optimization for ligand and protein sidechain flexibility
 
 A refined empirical force field to model protein-SAM interactions based on GAFF and AMBER14
 
-<img src="images/samff-logo.png" width="300">
+<img src="images/samff-logo.png" width="250">
 
 [ProtPOS](https://cbbio.online/software/protpos)
 
@@ -44,5 +44,5 @@ Fast prediction of protein preferred  orientation on a surface
 
 PyMOL Mobile controller for molecular visualization
 
-<img src="images/mcontrol-logo.png" width="300">
+<img src="images/mcontrol-logo.png" width="280">
 
