@@ -30,17 +30,19 @@
 
 ### Faraz Mohammadali Shaikh (PhD student)       
 <img src="images/faraz.jpg" width="150">
-- MSc Bioinformatics, Sri Ramachandra University, India
+
 - BSc Bioinformatics, University of Saurashtra, India
+- MSc Bioinformatics, Sri Ramachandra University, India
 - PhD thesis: Computational Approaches for Target Identification and Novel Inhibitor Discovery (May 2020)
-- <span style="color:blue">Current: Postdoc at Institute for Research in Immunology and Cancer (IRIC), University of Montreal, Canada</span>
+
+<span style="color:red">Current: Postdoc at Institute for Research in Immunology and Cancer (IRIC), University of Montreal, Canada</span>
 
 ### Pratiti Bhadra (Postdoc)
 - BTech Information Technology, RCC Institute of Information Technology (WBUT), Kolkata, West Bengal, India
 - PhD Interdisciplinary Mathematical Sciences PhD program (Computational Biology Stream), Indian Institute of Science, Bangalore, India
 - Research area: molecular dynamics simulation of self-assembled monolayers
-- <span style="color:blue">Current: Postdoc with Volkhard Helms, Center of Bioinformatics, Saarland University, Germany
-</span>
+
+<span style="color:blue">Current: Postdoc with Volkhard Helms, Center of Bioinformatics, Saarland University, Germany</span>
 
 ### Lu GAO (Master student) 
 <img src="images/louis.jpg" width="150">
