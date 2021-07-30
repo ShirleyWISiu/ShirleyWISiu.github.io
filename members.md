@@ -1,10 +1,6 @@
 # Members 
 
-### Chonwai UN (part-time RA) 
-<img src="images/edison.jpg" width="150"> ![image](https://user-images.githubusercontent.com/5370511/127591595-5b71320b-0cd9-4050-a917-8254428c9b5d.png)
 
-- BSc Computer Science, University of Macau
-- Task: Development and maintainance of the [app server](https://app.cbbio.online)
 
 ## Co-supervised UM Students
 ### Jie Lu YAN (PhD student) 
@@ -20,3 +16,9 @@
 
 - BSc Computer Science, University of Macau
 - Research topic: Peptide sequence feature representation and feature selection methods
+
+### Chonwai UN (part-time RA) 
+<img src="images/edison.jpg" width="150"> ![image](https://user-images.githubusercontent.com/5370511/127591595-5b71320b-0cd9-4050-a917-8254428c9b5d.png)
+
+- BSc Computer Science, University of Macau
+- Task: Development and maintainance of the [app server](https://app.cbbio.online)
