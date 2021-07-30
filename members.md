@@ -21,42 +21,57 @@
 - BSc Computer Science, University of Macau, Macau
 - Task: Development and maintainance of the [app server](https://app.cbbio.online)
 
-## Previous members 
+---
+## Previous members of CBBio Lab at University of Macau
 ### Ray Jiarui CHEN          
 <img src="images/ray.jpg" width="150"> ![image](https://user-images.githubusercontent.com/5370511/127592904-433f76a5-ffc6-455d-8a5a-d4e6b52426e9.png)
 - BSc Computer Science and Technology, Northwestern Polytechnical University, Ming De College, China
 - MSc thesis: Improving Machine Learning Based Toxicity Prediction: From Supervised Learning to Semi-supervised Learning (June 2021)
 
 ### Faraz Mohammadali Shaikh          
+<img src="images/faraz.jpg" width="150">
 - MSc Bioinformatics, Sri Ramachandra University, India
 - BSc Bioinformatics, University of Saurashtra, India
 - PhD thesis: Computational Approaches for Target Identification and Novel Inhibitor Discovery (May 2020)
-- <span style="color:blue">Current: Postdoc at Institute for Research in Immunology and Cancer (IRIC), University of Montreal, Canada. 
+- <span style="color:blue">Current: Postdoc at Institute for Research in Immunology and Cancer (IRIC), University of Montreal, Canada</span>
+
+### Pratiti Bhadra
+- BTech Information Technology, RCC Institute of Information Technology (WBUT), Kolkata, West Bengal, India
+- PhD Interdisciplinary Mathematical Sciences PhD program (Computational Biology Stream), Indian Institute of Science, Bangalore, India
+- Research area: molecular dynamics simulation of self-assembled monolayers
+- <span style="color:blue">Current: Postdoc with Volkhard Helms, Center of Bioinformatics, Saarland University, Germany
 </span>
 
 ### Lu GAO
+<img src="images/louis.jpg" width="150">
 - BSc Computer Software and Theory, Jiangxi Agricultural University, China
 - Master thesis: Enhance protein-peptide prediction with imbalanced ensemble learner (July 2020)
 
 ### Kin Meng WONG
+<img src="images/michael.jpg" width="150">
 - Master thesis: Application of grey wolf optimizer and side-chain rotamer library for flexible receptor docking (July 2020)
 
 ### Meng Chi AO
 - Master thesis: Evaluating variants of firefly algorithm for ligand pose prediction in protein-ligand docking program (May 2020)
 
 ### Hoi Kuan TAI
+<img src="images/giotto.jpg" width="150">
 - Master thesis: Protein-ligand docking and virtual screening based on chaos-embedded particle swarm optimization (May 2018)
 
 ### Hang LIN
+<img src="images/allan.jpg" width="150">
 - Master thesis: A novel hybrid cuckoo search-quasi differential equation algorithms and its application on flexible protein-ligand docking (2017)
 
 ### Hoi Kei CHAN
+<img src="images/jacky.jpg" width="150">
 - Master thesis: Computational modeling of nanodroplet wetting on a single-plate coplanar electrodes (June 2017)
 
 ### Choi Fong NGAI
+<img src="images/jimmy.jpg" width="150">
 - Master thesis: Predicting favorable protein docking poses on a solid surface by particle swarm optimization (May 2015)
 
 ### Han CAO
+<img src="images/caohan.jpg" width="150">
 - Master thesis: An improved algorithm for the prediction of dimeric transmembrane domains of bitopic proteins (August 2014)
 
 
