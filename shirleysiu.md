@@ -58,6 +58,10 @@
 - Member of Macau Bioinformatics Society  (澳門生物信息學學會)
 - Member of Computer-Aided Drug Design-Asia (CADD-Asia)
 
+## Links
+- [Shirley Siu's Lab page at the University of Macau](https://cbbio.online)
+- [Institute of Science and Environment, University of Saint Joseph, Macau](http://ise.usj.edu.mo/)
+
 
 <!---
 Shirley was born in Macau. She completed her B.Sc. and M.Sc. degree in Software Engineering at University of Macau. In 2006, she received her second M.Sc. degree from the Center of Bioinformatics at Saarland University. Afterwards, she joined the Theoretical and Computational Membrane Biology group at the same University where she received her PhD degree (Dr. rer. nat.) from the Physics Department in 2010. Then, she continued one-year of post-doctoral training in the Computational Biology group at the University of Erlangen. She was the recipient of the academic excellence award in Macau Foundation Prize for First Honor Degree graduates in UM in 1997, the fellowship award in the Max Planck Research School for Computer Science from 2003-2005, and the doctoral scholarship in the Graduate School of Physics at Saarland University from 2006-2009.
