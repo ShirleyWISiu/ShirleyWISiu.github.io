@@ -12,13 +12,13 @@
 ### Downloadable Software
 
 #### Protein-Ligand Docking 
-<kbd><img src="images/psovina-logo.png" width="150"> 
+<img src="images/psovina-logo.png" width="150"> 
 [PSOVina](https://app.cbbio.online/psovina/home)
   
-<kbd><img src="images/gwovina-logo.png" width="150"> 
+<img src="images/gwovina-logo.png" width="150"> 
 [GWOVina](https://app.cbbio.online/gwovina/home)
 
 ### Self-Assembled Monolayers
-<kbd><img src="images/samff-logo.png" width="150">
+<img src="images/samff-logo.png" width="150">
 [SAMFF](https://sourceforge.net/projects/samff/)<br />A refined empirical force field to model protein-SAM interactions based on GAFF and AMBER14 
 
