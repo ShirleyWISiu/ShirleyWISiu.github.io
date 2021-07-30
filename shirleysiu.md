@@ -1,8 +1,8 @@
-## Dr. Shirley W. I. Siu           [<img src="images/linkedin.jpg" width="20">](https://www.linkedin.com/in/shirley-weng-in-siu-7b584819/) [<img src="images/twitter.jpg" width="20">](https://twitter.com/shirleywisiu) [<img src="images/fb.jpg" width="20">](https://www.facebook.com/meetutako/) [<img src="images/google.jpg" width="20">](https://scholar.google.com/citations?user=iYkCq5QAAAAJ&hl=en&oi=sra) 
+# Dr. Shirley W. I. Siu           [<img src="images/linkedin.jpg" width="20">](https://www.linkedin.com/in/shirley-weng-in-siu-7b584819/) [<img src="images/twitter.jpg" width="20">](https://twitter.com/shirleywisiu) [<img src="images/fb.jpg" width="20">](https://www.facebook.com/meetutako/) [<img src="images/google.jpg" width="20">](https://scholar.google.com/citations?user=iYkCq5QAAAAJ&hl=en&oi=sra) 
 
 <img src="images/shirleysiu.jpg" width="200"> | **Associate Research Professor** <br /> Institute of Science and Environment <br /> University of Saint Joseph <br /> <br /> email 1: *shirleywisiu* at *gmail.com* <br />email 2: *siuwengin* at *gmail.com*
 
-### Academic Position
+## Academic Position
 - **2021-present Associate Research Professor**, Institute of Science and Environment, University of Saint Joseph, Macau
 - **2021-present Adjunct Assistant Professor**, Department of Computer and Information Science, University of Macau
 - **2020-present Visiting Professor**, Department of Pharmaceutical Sciences, Universiti Sains Malaysia, Malaysia
@@ -11,7 +11,7 @@
 - **2001-2003 Junior lecturer**, Department of Computer and Information Science, University of Macau
 - **1997-2001 Teaching Assistant**, Department of Computer and Information Science, University of Macau
 
-### Education
+## Education
 - **2010-2011 Post-doc in Computational Biology**, University of Erlangen, Germany
 - **2010 PhD (Dr. rer. nat.) in Computational Biology**, Department of Physics, Saarland University, Germany
 - **2006 MSc in Computational Molecular Biology**, Center for Bioinformatics in Saarland University & Max-Planck Institute for Computer Science, Germany
@@ -19,7 +19,7 @@
 - **1997 BSc in Software Engineering**, Department of Computer and Information Science, University of Macau
 
 
-### Invited Talk
+## Invited Talk
 - **Targeted Anticancer Peptides Discovery: Machine Learning and Molecular Study**	Deep Learning and Artificial Intelligence Summer School 2021 (DLAI5), Thailand, online, 10/05/2021
 - **Development of Machine Learning Classifiers for Short Antimicrobial Peptide Prediction and Genome Screening**	Computer-Aided Drug Design Seminar & Workshop (CADD2019), Penang, Malaysia, 03/12/2019	
 - **Swarm-Intelligence Approach to Protein-Ligand Docking**	Computer-Aided Drug Design Seminar & Workshop (CADD2018), Bali, Indonesia, 29/11/2018	
@@ -36,13 +36,13 @@
 - **Principles of Molecular Dynamics**
 	Computer-Aided Drug Design Seminar & Workshop (CADD2017), Langkawi, Malaysia, 07/12/2017	
 
-### Conference Organizing Committee
+## Conference Organizing Committee
 - Organizing committee, The 10th Anniversary Conference (ACCMS‐10) of the Asian Consortium on Computational Materials Science ― From Virtual To Real, 30 July - 2 Aug 2019, Hong Kong
 - Symposium chair, The 10th International Conference on Computational Physics 2017 – Mini-symposium “Modeling and Simulation of Macromolecular Systems” (ICCP10), 16-20 Jan 2017, Macau
 - Chair, The 7th International Conference on Computational Systems-Biology and Bioinformatics 2016 (CSBio2016), 19 - 22 Dec 2016, Macau
 - Organizing committee, The International Conference on Web-Age Information Management (WAIM2014), 16 - 18 Jun 2014, Macau
 
-### Conference Program Committee 
+## Conference Program Committee 
 - The Asia Pacific Bioinformatics Conference (APBC2020, 2021)
 - International Conference on Bioinformatics and Biomedical Technology (ICBBT-2020, 2021)
 - Joint 30th International Conference on Genome Informatics & Australian Bioinformatics and Computational Biology Society (GIW/ABACBS 2019)
@@ -53,7 +53,7 @@
 -	IEEE TECON Macau (2015)
 -	International Conference on Biomedical Engineering and Biotechnology (ICBEB 2015, 2014)
 
-### Affilitation
+## Affilitation
 - Council Member of Macau Computational Pharmacy Society (計算藥學協會)
 - Member of Macau Bioinformatics Society  (澳門生物信息學學會)
 - Member of Computer-Aided Drug Design-Asia (CADD-Asia)
