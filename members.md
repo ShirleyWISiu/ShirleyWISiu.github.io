@@ -26,7 +26,7 @@
 ### Ray Jiarui CHEN (Master student)         
 <img src="images/ray.jpg" width="150"> ![image](https://user-images.githubusercontent.com/5370511/127592904-433f76a5-ffc6-455d-8a5a-d4e6b52426e9.png)
 - BSc Computer Science and Technology, Northwestern Polytechnical University, Ming De College, China
-- MSc thesis: Improving Machine Learning Based Toxicity Prediction: From Supervised Learning to Semi-supervised Learning (June 2021)
+- Master thesis: Improving Machine Learning Based Toxicity Prediction: From Supervised Learning to Semi-supervised Learning (June 2021)
 
 ### Faraz Mohammadali Shaikh (PhD student)       
 <img src="images/faraz.jpg" width="150">
@@ -58,26 +58,36 @@
 <img src="images/giotto.jpg" width="150">
 - Master thesis: Protein-ligand docking and virtual screening based on chaos-embedded particle swarm optimization (May 2018)
 
-### Hang LIN (Master student) 
+### Allan Hang LIN (Master student) 
 <img src="images/allan.jpg" width="150">
+- BSc Statistics, Sun Yat-Sen University, China
 - Master thesis: A novel hybrid cuckoo search-quasi differential equation algorithms and its application on flexible protein-ligand docking (2017)
 
 ### Hoi Kei CHAN (Master student) 
-<img src="images/jacky.jpg" width="150">
+<img src="images/jackychan.jpg" width="150">
+- BSC Software Engineering, University of Macau
 - Master thesis: Computational modeling of nanodroplet wetting on a single-plate coplanar electrodes (June 2017)
 
 ### Choi Fong NGAI (Master student) 
 <img src="images/jimmy.jpg" width="150">
+- BSC Software Engineering, University of Macau
 - Master thesis: Predicting favorable protein docking poses on a solid surface by particle swarm optimization (May 2015)
 
 ### Han CAO (Master student) 
 <img src="images/caohan.jpg" width="150">
 - Master thesis: An improved algorithm for the prediction of dimeric transmembrane domains of bitopic proteins (August 2014)
 
+### Wendy Wun Teng LAM (Bachelor student)
+<img src="images/wendy.jpg" width="150">
+- Bachelor thesis: PyMOL mControl: Manipulating molecular visualization with mobile devices (May 2016)
 
+### Ricardo Brito (Bachelor student)
+<img src="images/ricardo.jpg" width="150">
+- Bachelor thesis: Towards parallelizing the protein-ligand docking algorithm on the GPU using CUDA (May 2015)
 
-
-
+### Chon Kit NG (Bachelor student)
+<img src="images/marcusng.jpg" width="150">
+- Bachelor thesis: Improving protein-ligand docking by particle swarm optimization (May 2014)
 
 
 
