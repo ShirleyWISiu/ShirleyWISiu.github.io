@@ -1,4 +1,4 @@
-## Welcome to Computational Biology Lab
+# Welcome to Computational Biology Lab
 
 [Shirley W. I. Siu](shirleysiu.md) | Members | [Research](research.md) | [Publications](publications.md) | [Software](https://app.cbbio.online)
 
@@ -8,7 +8,7 @@ we are developing bioinformatics tools that enable researchers to solve critical
 <span style="color:red">This site is still under construction, please check back later.</span>
 
 
-### Openings
+## Openings
 - [Call for application - Postdoctoral researcher](vacancy.md) ([中文版](vacancy_cn.md))
 
 
@@ -18,6 +18,6 @@ we are developing bioinformatics tools that enable researchers to solve critical
 
 
 
-### Links
+## Links
 - [Shirley Siu's Lab page at University of Macau](https://cbbio.online)
 - [Institute of Science and Environment, University of Saint Joseph, Macau](http://ise.usj.edu.mo/)
