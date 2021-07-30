@@ -12,13 +12,12 @@
 ---
 # Downloadable Software
 ## Protein-Ligand Docking 
-<img src="images/psovina-logo.png" width="150"> 
-[PSOVina](https://app.cbbio.online/psovina/home)
+[PSOVina](https://app.cbbio.online/psovina/home)<br />Particle swarm optimization for ligand conformational search combined with Singer chaotic function | <img src="images/psovina-logo.png" width="250"> 
   
-<img src="images/gwovina-logo.png" width="150"> 
-[GWOVina](https://app.cbbio.online/gwovina/home)
+
+[GWOVina](https://app.cbbio.online/gwovina/home)<br />Grey wolf optimization for ligand and protein sidechain conformational search | <img src="images/gwovina-logo.png" width="250"> 
 
 ## Self-Assembled Monolayers
-<img src="images/samff-logo.png" width="150">
-[SAMFF](https://sourceforge.net/projects/samff/)<br />A refined empirical force field to model protein-SAM interactions based on GAFF and AMBER14 
+
+[SAMFF](https://sourceforge.net/projects/samff/)<br />A refined empirical force field to model protein-SAM interactions based on GAFF and AMBER14 |<img src="images/samff-logo.png" width="250">
 
