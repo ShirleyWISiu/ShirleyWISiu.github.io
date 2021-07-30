@@ -18,7 +18,7 @@
 
 [GWOVina](https://app.cbbio.online/gwovina/home)<br />Grey wolf optimization for ligand and protein sidechain flexibility 
 
-<kbd padding=1px border-radius=1px><img src="images/gwovina-logo.png" width="250"></kbd>
+<img src="images/gwovina-logo.png" width="250">
 
 ## Self-Assembled Monolayers
 
