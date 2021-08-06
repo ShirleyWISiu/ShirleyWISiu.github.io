@@ -33,8 +33,9 @@ This project is led by [Prof. Shirley Siu](https://cbbio.online), who will start
 - Identification document
 - Supporting documents showing the ranking of universities from which higher education degrees were obtained. 
 
-For application and inquiries, please contact the project leader Shirley Siu (siuwengin@gmail.com).
+**For application and inquiries, please contact the project leader Shirley Siu (siuwengin@gmail.com).**
+
 Details about the funding scheme can be found on the [FDCT website](https://www.fdct.gov.mo/en/postdoc.html).
 
->This job ad is posted on [JobRxiv](https://jobrxiv.org/job/university-of-saint-joseph-institute-of-science-and-environment-27778-postdoc-researcher-in-ml-bioinformatics-at-institute-of-science-and-environment-university-of-saint-joseph-macao/?fbclid=IwAR04rRH3e_ypzBc6Mpsqy51_pP7u3QUv5e808NH4a8p9YkUHszSXTOI_4Fs) and [LinkedIn](https://www.linkedin.com/jobs/view/2653671978/)
+>This job ad is posted on [JobRxiv](https://jobrxiv.org/job/university-of-saint-joseph-institute-of-science-and-environment-27778-postdoc-researcher-in-ml-bioinformatics-at-institute-of-science-and-environment-university-of-saint-joseph-macao/?fbclid=IwAR04rRH3e_ypzBc6Mpsqy51_pP7u3QUv5e808NH4a8p9YkUHszSXTOI_4Fs), [LinkedIn](https://www.linkedin.com/jobs/view/2653671978/), and [小木虫](http://muchong.com/bbs/viewthread.php?tid=14880450&target=1)
 
