@@ -1,6 +1,7 @@
 # Publications
 ## Journal | [Conference](#conference) 
 ### 2021
+- Chen, J.; Cheong, H.H. and Siu, Shirley W. I.* **[xDeep-AcPEP: Deep Learning Method for Anticancer Peptide Activity Prediction Based on Convolutional Neural Network and Multitask Learning](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00181)**. *Journal of Chemical Information and Modeling* (2021, in press).
 - Shaikh, F.; Tai, H. K.; Desai, N. and Siu, Shirley W. I.\* **[LigTMap: Ligand and structure-based target identification and activity prediction for small molecules](https://doi.org/10.1186/s13321-021-00523-1)**. *Journal of Cheminformatics* 2021, 13: 44. 
 - Wei, Ran; Wu, Qiushuang; Ai, Nana; Wang, Lei; Zhou, Mei; Shaw, Chris; Chen Tianbao; Ye Richard Dequan; Ge, Wei; Siu, Shirley W. I.; Kwok, Hang Fai. **[A novel bioengineered fragment peptide of Vasostatin-1 exerts smooth muscle pharmacological activities and anti-angiogenic effects via blocking VEGFR signalling pathway](https://doi.org/10.1016/j.csbj.2021.05.003)**. *Computational and Structural Biotechnology Journal* 2021, 19: 2664-2675.
 - Zai, Yu.; Xi, Xinping; Ye, Zhuming; Ma, Chengbang; Zhou, Mei; Chen, Xiaoling; Siu, Shirley W. I.; Chen, Tianbao; Wang, Lei; Kwok, Hang Fai. **[Aggregation and its influence on the bioactivities of a novel antimicrobial peptide, Temporin-PF, and its analogues](https://doi.org/10.3390/ijms22094509)**. *International Journal of Molecular Sciences* 2021, 22, 4509.
